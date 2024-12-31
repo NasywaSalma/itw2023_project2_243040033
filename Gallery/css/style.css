@@ -5,9 +5,7 @@
     text-decoration: none;
     list-style: none;
     scroll-behavior: smooth;
-        font-family: "Benne", serif;
-        font-weight: 400;
-        font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;        
       
 }
 
@@ -98,7 +96,7 @@ section {
 
 #home {
     display: flex;
-    flex-direction: clumn;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
     gap: 2em;
